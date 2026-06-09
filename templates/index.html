@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Shop Manager</title>
+
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css">
+
+    <style>
+
+        body{
+            background-color: #f5f5f5;
+        }
+
+        .sidebar-link{
+            border-radius: 10px;
+            padding: 12px;
+            transition: 0.3s;
+        }
+
+        .sidebar-link:hover{
+            background-color: #ffc107;
+            color: black !important;
+            transform: translateX(5px);
+        }
+
+        .active{
+            background-color: #ffc107;
+            color: black !important;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-dark bg-dark px-4 shadow-sm">
+
+        <h3 class="text-warning fw-bold m-0">
+            SmartShop
+        </h3>
+
+        <div class="d-flex align-items-center gap-3">
+
+            <form action="/Vproducts" method="GET">
+    <input type="text"
+           name="q"
+           class="form-control"
+           placeholder="Search products">
+</form>
+
+            <button class="btn btn-outline-warning">
+                🔔
+            </button>
+
+            <img src="https://i.pravatar.cc/40"
+                class="rounded-circle"
+                width="40">
+
+        </div>
+
+    </nav>
+
+    <!-- Main Layout -->
+    <div class="d-flex">
+
+        <!-- Sidebar -->
+        <div class="bg-dark text-white p-3 vh-100 shadow"
+            style="width: 260px;">
+
+            <hr class="text-secondary">
+
+            <ul class="nav flex-column">
+
+                <li class="nav-item mb-2">
+                    <a href="Analytics"
+                        class="nav-link text-white sidebar-link active">
+                        📊 Dashboard
+                    </a>
+                </li>
+
+                <li class="nav-item mb-2">
+                   <a href="/Vproducts" 
+                        class="nav-link text-white sidebar-link">
+                        📦 Products
+                    </a>
+                </li>
+
+                <li class="nav-item mb-2">
+                    <a href="/Sales"
+                        class="nav-link text-white sidebar-link">
+                        🛒 Sales
+                    </a>
+                </li>
+
+                <li class="nav-item mb-2">
+                    <a href="/Analytics"
+                        class="nav-link text-white sidebar-link">
+                        📈 Analytics
+                    </a>
+                </li>
+
+                <li class="nav-item mb-2">
+                    <a href="/Customers"
+                        class="nav-link text-white sidebar-link">
+                        👤 Customers
+                    </a>
+                </li>
+
+                <li class="nav-item mb-2">
+                    <a href="/settings"
+                        class="nav-link text-white sidebar-link">
+                        ⚙️ Settings
+                    </a>
+                </li>
+
+            </ul>
+
+            <div class="mt-5">
+     <a href="/products"
+class="btn btn-warning w-100 fw-bold rounded-pill">
+
++ Add Product
+
+</a>  
+                
+            </div> 
+ 
+        </div>
+     
+ 
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+<footer class="text-center p-3">
+    © 2026 SmartShop Management System
+</footer>
+</body>
+
+</html>

@@ -1,0 +1,22 @@
+.sidebar-link{
+    border-radius: 10px;
+    padding: 12px;
+    transition: 0.3s;
+}
+
+.sidebar-link:hover{
+    background-color: #ffc107;
+    color: black !important;
+    transform: translateX(5px);
+}
+
+.active{
+    background-color: #ffc107;
+    color: black !important;
+}
+
+
+
+
+
+
