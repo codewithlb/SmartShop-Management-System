@@ -39,6 +39,20 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Products
+![Products](screenshots/products.png)
+
+### Analytics
+![Analytics](screenshots/analytics.png)
+
+### Customers
+![Customers](screenshots/customers.png)
+
 
 ## Author
 
