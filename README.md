@@ -49,7 +49,7 @@ python app.py
 ![Analytics](screenshots/Screenshot%202026-06-09%20055618.png)
 
 ## Customers
-![Customers](screenshots/Screenshot%202026-06-09% 060043.png)
+![Customers](screenshots/Screenshot%202026-06-09%20060043.png)
 
 
 ## Author
