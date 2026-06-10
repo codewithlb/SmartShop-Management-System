@@ -40,16 +40,16 @@ pip install -r requirements.txt
 python app.py
 ```
 ## Dashboard
-![Dashboard](screenshots/Screenshot%202026-06-09%20055618.png)
+![Dashboard](screenshots/Screenshot%202026-06-09%20055653.png)
 
 ## Products
 ![Products](screenshots/Screenshot%202026-06-09%20055907.png)
 
 ## Analytics
-![Analytics](screenshots/Screenshot%202026-06-09%20055741.png)
+![Analytics](screenshots/Screenshot%202026-06-09%20055618.png)
 
 ## Customers
-![Customers](screenshots/Screenshot%202026-06-09%20055907.png)
+![Customers](screenshots/Screenshot%202026-06-09%060043.png)
 
 
 ## Author
