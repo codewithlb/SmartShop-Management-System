@@ -42,7 +42,7 @@ python app.py
 ## Screenshots
 
 ### Dashboard
-![Dashboard](Screenshot 2026-06-09 055618.png)
+![Dashboard](Screenshot%202026-06-09 055618.png)
 
 ### Products
 ![Products](screenshots/products.png)
