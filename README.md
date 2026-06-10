@@ -55,3 +55,9 @@ python app.py
 ## Author
 
 Laxman Bansode
+GitHub: https://github.com/codewithlb
+LinkedIn: www.linkedin.com/in/laxman-bansode-9a8371275
+
+**License**
+
+This project is open source and available under the MIT License.
