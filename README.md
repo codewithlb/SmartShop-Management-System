@@ -43,7 +43,7 @@ python app.py
 ![Dashboard](screenshots/Screenshot%202026-06-09%20055618.png)
 
 ## Products
-![Products](screenshots/Screenshot%202026-06-09%20055653.png)
+![Products](screenshots/Screenshot%202026-06-09%20055907.png)
 
 ## Analytics
 ![Analytics](screenshots/Screenshot%202026-06-09%20055741.png)
